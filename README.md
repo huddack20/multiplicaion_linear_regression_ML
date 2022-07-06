@@ -1,1 +1,1 @@
-# multiplicaion_linear_regression_ML
+# multiplication_linear_regression_ML
